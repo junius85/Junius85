@@ -30,4 +30,4 @@ Sangat enak
   <tr>
     <td colspan="5" valign="top"><div align="left">
       <img src="nasi.jpg" width="360" height="240" hspace="0">
-    <p class="style2">Kuliner di Indonesia ada sangat banyak, oleh karna itu ada baiknya jika kita mengenali beberapa jenis kuliner khas Indonesia yang terkenal dan pasti enak.</p></td>
+    <p class="style2">Kuliner di Indonesia ada sangat banyak, oleh karna itu ada baiknya jika kita mengenali beberapa jenis kuliner khas Indonesia yang terkenal dan pasti enak.</p>
