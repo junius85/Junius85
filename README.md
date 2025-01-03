@@ -18,7 +18,7 @@ Sangat enak
 <body>
 <table width="822" height="497" border="1">
   <tr>
-    <td colspan="5"><div align="center" font-weight:"bold">Kuliner Indonesia</div></td>
+    <td colspan="5"><div align="center">Kuliner Indonesia</div></td>
   </tr>
   <tr>
     <td width="308" height="28" align="center" bgcolor="#FF0033"><div align="center" class="style3"><a href="Home.html">Ayam Goreng</a></div></td>
