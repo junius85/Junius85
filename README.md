@@ -1,6 +1,5 @@
 # Kuliner Indonesia
 Sangat enak
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -14,13 +13,12 @@ Sangat enak
 .style2 {font-size: x-large
 }
 -->
-</style>
 </head>
 
 <body>
 <table width="822" height="497" border="1">
   <tr>
-    <td colspan="5"><div align="center" class="style1">Kuliner Indonesia</div></td>
+    <td colspan="5"><div align="center" class=".style1">Kuliner Indonesia</div></td>
   </tr>
   <tr>
     <td width="308" height="28" align="center" bgcolor="#FF0033"><div align="center" class="style3"><a href="Home.html">Ayam Goreng</a></div></td>
@@ -33,7 +31,3 @@ Sangat enak
     <td colspan="5" valign="top"><div align="left">
       <img src="nasi.jpg" width="360" height="240" hspace="0">
     <p class="style2">Kuliner di Indonesia ada sangat banyak, oleh karna itu ada baiknya jika kita mengenali beberapa jenis kuliner khas Indonesia yang terkenal dan pasti enak.</p></td>
-  </tr>
-</table>
-</body>
-</html>
