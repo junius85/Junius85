@@ -31,7 +31,7 @@ Web coba
   </tr>
   <tr>
     <td colspan="5" valign="top"><div align="left">
-      <p><img src="../../../../xampp/htdocs/inspektorat/Ayam gor.jpg" width="360" height="240" hspace="0" /></p>
+      <p><img src="Ayam gor.jpg" width="360" height="240" hspace="0" /></p>
     </div></td>
   </tr>
 </table>
